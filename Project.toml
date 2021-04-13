@@ -1,0 +1,10 @@
+name = "MuxPkgServer"
+uuid = "242d0b20-dc99-4afd-a0ca-5fbbd16652cc"
+version = "1.0.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+LoggingExtras = "e6f89c97-d47a-5376-807f-9c37f3926c36"
+URIs = "5c2747f8-b7ea-4ff2-ba2e-563bfd36b1d4"
